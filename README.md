@@ -1,7 +1,5 @@
 # React Todo App
 
-A simple React todo app.
-
 **Test it here: http://augluk.rf.gd/todo/**
 
 Scales to display correctly on screens of any width.
