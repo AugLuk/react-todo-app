@@ -1,4 +1,4 @@
-# react-todo-app
+# React Todo App
 
 A simple React todo app.
 
