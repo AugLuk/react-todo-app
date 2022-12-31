@@ -67,8 +67,20 @@ body {
   margin-right: 8px;
 }
 
+.todo--right {
+  min-width: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.todo--edit {
+  cursor: pointer;
+}
+
 .todo--close {
-  font-size: 18px;
+  cursor: pointer;
 }
 
 .todo--drag {

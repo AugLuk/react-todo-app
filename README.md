@@ -1,6 +1,6 @@
 # React Todo App
 
-**Test it here: http://augluk.rf.gd/todo/**
+**Try it here: http://augluk.rf.gd/todo/**
 
 Scales to display correctly on screens of any width.
 
